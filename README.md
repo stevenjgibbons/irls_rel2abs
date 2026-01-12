@@ -7,6 +7,8 @@ https://doi.org/10.5281/10.5281/zenodo.18213711
 
 [![DOI](https://zenodo.org/badge/1132122594.svg)](https://doi.org/10.5281/zenodo.18213710)
 
+[![SQAaaS badge](https://github.com/EOSC-synergy/SQAaaS/raw/master/badges/badges_150x116/badge_software_bronze.png)](https://api.eu.badgr.io/public/assertions/UslbfE47Rhm6-ZZt8Mf_PA "SQAaaS bronze badge achieved")
+
 Compile program by typing
 ```
 make irls_rel2abs
